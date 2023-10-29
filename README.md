@@ -16,7 +16,7 @@ Soy un apasionado emprendedor nacido en Zaragoza en 1993, con una sólida experi
 
 ## Contacto
 
-- **LinkedIn:** (https://www.linkedin.com/in/fernandocastellanosgotor/)
+- **LinkedIn:** https://www.linkedin.com/in/fernandocastellanosgotor/
 - **Correo Electrónico:** fernandocastellanosgotor@gmail.com
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades que el futuro tiene reservadas. 😊
